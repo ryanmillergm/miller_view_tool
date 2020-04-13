@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+MillerViewTool::Renderer.copyright('Ryan Miller', 'All rights reserved'
+```
 
 ## Development
 
